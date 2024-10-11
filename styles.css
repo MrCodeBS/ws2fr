@@ -1,0 +1,20 @@
+.fett {
+  color: green;
+  font-weight: bolder;
+  font-family: "helvetica, arial, sans-serif";
+}
+li {
+  color: red;
+  font-family: "Courier New", Courier, monospace;
+}
+header {
+  background-color: #ff0000;
+  color: #ffffff;
+  text-align: center;
+  padding: 1em;
+}
+body {
+  background-color: #000000;
+}
+
+
